@@ -1,0 +1,1 @@
+It Uses Built in python module named PyQt5 to Create an Digital Clock With transparent ui and neon colored text
