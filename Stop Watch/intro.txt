@@ -1,0 +1,26 @@
+project is a professional-level stopwatch application built using PyQt5.
+It demonstrates clean UI design principles, structured layout management, and precise time handling using QTimer and QTime.
+
+The application includes:
+
+Start, Stop, and Reset functionality
+
+Millisecond precision timing
+
+Semantic button color system (Green = Start, Red = Stop, Blue = Reset)
+
+Professional card-based layout
+
+Cold pastel hover effects for modern UI feedback
+
+Proper state handling (disabled buttons when inactive)
+
+The goal of this project is to combine functional accuracy with modern interface design, following clean coding structure and separation of concerns.
+
+Technologies Used:
+
+Python 3.14
+
+PyQt5
+
+This project is suitable for beginners learning GUI development and intermediate developers focusing on UI refinement and interaction design.
